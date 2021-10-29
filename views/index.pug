@@ -2,4 +2,22 @@ extends layout
 
 block content
   h1= title
-  p Welcome to #{title}
+  p Hello, This is <b>Nithin Reddy Kumbham</b> and welcome to #{title}
+  button(type="button",  onclick='update()', class="btn btn-success") Press Me 
+  br
+  br
+  br
+  div(id="target") Display
+
+  script.
+     client_count = 0;
+     //console.log("hello");
+     function update()
+     {
+       document.getElementById("target").innerHTML = "Number of clicks is : " + ++client_count
+     }
+
+//-     Declare a method update() 
+//- which adds one to the client_count and replaces the contents of the div with Value 
+//- now xxx. The period gives us a block of script up to a blank line. (See slide 6.) 
+//- 4) Add the onclick property to the button and have it call “update()”. 
