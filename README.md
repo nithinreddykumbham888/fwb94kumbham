@@ -7,9 +7,9 @@ Class **Money**<br>
 Attributes<br>
 1. ***type = "US Dollar";***
 2. ***country = "United states";***
-3. ***value = 10;***
+3. ***value = 10;***<br>
 Class **Nespresso**<br>
 Attributes<br>  
- 1.***type = "Coffee";***
- 2.***country = "United Kingdom";***
- 3.***value = 15;***
+1.***type = "Coffee";***
+2.***country = "United Kingdom";***
+3.***value = 15;***
