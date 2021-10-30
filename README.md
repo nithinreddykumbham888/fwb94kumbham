@@ -8,6 +8,7 @@ Attributes<br>
 1. ***type = "US Dollar";***
 2. ***country = "United states";***
 3. ***value = 10;***<br>
+<hr>
 Class **Nespresso**<br>
 Attributes<br>  
 1.***type = "Coffee";***
