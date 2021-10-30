@@ -5,13 +5,6 @@ And the server is generated from my SID and my last name<br>
 Link to remote Heroku server : https://fwb94kumbham.herokuapp.com/ <br>
 
 
-Class **Money**<br>
-Attributes<br>
-1. ***type = "US Dollar";***
-2. ***country = "United States";***
-3. ***value = 10;***<br><br>
-
-
 Class **Nespresso**<br>
 Attributes<br>
 - ***type = "Coffee"***;<br>
