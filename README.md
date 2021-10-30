@@ -11,6 +11,6 @@ Attributes<br>
 <hr>
 Class **Nespresso**<br>
 Attributes<br>  
-1.***type = "Coffee";***
-2.***country = "United Kingdom";***
-3.***value = 15;***
+1. ***type = "Coffee";***
+2. ***country = "United Kingdom";***
+3. ***value = 15;***
